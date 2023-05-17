@@ -1,5 +1,5 @@
 # landlab_flowrouting_clinic_2023
-@author Sebastien J.P. Lenard
+@author Sebastien J.P. Lenard sebastien.lenard@gmail.com
 <br/>
 @date 2025-05-17
 <br/>
