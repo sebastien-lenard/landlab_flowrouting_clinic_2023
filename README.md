@@ -1,5 +1,9 @@
 # landlab_flowrouting_clinic_2023
 @author Sebastien J.P. Lenard
+<br/>
 @date 2025-05-17
+<br/>
 Compatible with Landlab 2.6.0 within a conda environment similar to CSDMS environment.
-Particularly, uses the PriorityFloodFlowRouter and the BedrocksLandslider
+<br/>
+Particularly, uses the PriorityFloodFlowRouter and the BedrocksLandslider.
+<br/>
