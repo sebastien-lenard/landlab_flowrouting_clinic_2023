@@ -21,7 +21,6 @@ import numpy as np
 from landlab import Component, NetworkModelGrid, RasterModelGrid
 from landlab.components.depression_finder.floodstatus import FloodStatus
 
-
 class FlowRouter(Component):
     """
     The FlowRouter carries out 2 operations:
@@ -126,7 +125,7 @@ class FlowRouter(Component):
     from Digital Elevation Data. Computer Vision, Graphics and Image
     Processing, 28, 328-344. https://dx.doi.org/10.1016/S0734-189X(84)80011-0
     """
-
+    
     from .ext.single_flow.accumulation import accumulation as _accumulation_funcs
     from .ext.single_flow.priority_routing import (
         breach as _breach_funcs,
